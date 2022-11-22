@@ -27,7 +27,7 @@ export const records = [
         "year"           :'2013',
         "stock"          :3,
         "comment"        : "DJ Rashad was a singular genius and one of footwork’s architects, who shared credit for this unselfishly with other members of his inimitable Teklife crew",
-        "pitchforkPos"   :20
+        "pitchforkPos"   :20,
     },
 
     {
